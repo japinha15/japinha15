@@ -7,4 +7,5 @@ Prazer me chamo Aryanne yumi kinzo yamada
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-  ![](https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif)
+  ![](https://media.tenor.com/5iiD6jOOCuAAAAAC/quby-high-five.gif
+  )
